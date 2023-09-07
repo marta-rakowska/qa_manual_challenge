@@ -16,6 +16,16 @@ I decided to take part in the challenge cause I would like to extend my knowledg
 
 ### Subtask 4️⃣
 
+#### What is the Scouts Panel app for?
+
+#### What are the functionalities of the Scouts Panel app? What are they for? Are they intuitive?
+
+#### What is the interface like?
+
+#### Is the app intuitive?
+
+#### Do you see any bugs?
+
 ### Subtask 5️⃣
 
 ## Task 2️⃣
