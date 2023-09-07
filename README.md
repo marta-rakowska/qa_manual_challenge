@@ -16,7 +16,7 @@ I decided to take part in the challenge cause I would like to extend my knowledg
 
 ### Subtask 4️⃣
 
-### Subtast 5️⃣
+### Subtask 5️⃣
 
 
 
