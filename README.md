@@ -18,6 +18,26 @@ I decided to take part in the challenge cause I would like to extend my knowledg
 
 ### Subtask 5️⃣
 
+## Task 2️⃣
+
+In progress...
+
+## Task 3️⃣
+
+In progress...
+
+## Task 4️⃣
+
+In progress...
+
+## Task 5️⃣
+
+In progress...
+
+## Task 6️⃣
+
+In progress...
+
 
 
 
