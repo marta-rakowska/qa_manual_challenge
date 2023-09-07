@@ -16,15 +16,23 @@ I decided to take part in the challenge cause I would like to extend my knowledg
 
 ### Subtask 4️⃣
 
-#### What is the Scouts Panel app for?
+#### *What is the Scouts Panel app for?*
 
-#### What are the functionalities of the Scouts Panel app? What are they for? Are they intuitive?
+It is the app intended for football scouts. They can use it to look through indicators, skills and positions of the players.
 
-#### What is the interface like?
+#### *What are the functionalities of the Scouts Panel app? What are they for? Are they intuitive?*
 
-#### Is the app intuitive?
+#### *What is the interface like?*
 
-#### Do you see any bugs?
+The interface is not very user-friendly. It is difficult to find some functionalities.
+
+#### *Is the app intuitive?*
+
+The app is not intuitive. It is difficult to find some functionalities. For example, to add a new match you have to click any activity on the dashboard, click "Matches" on the sidebar menu, then click "Add match" and you are redirected to the form.
+
+#### *Do you see any bugs?*
+
+
 
 ### Subtask 5️⃣
 
