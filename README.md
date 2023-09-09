@@ -8,7 +8,7 @@ Entry test result: 10/10 points
 
 ### Subtask 2️⃣ 
 
-The goal of this task wes to create a GitHub repository.
+The goal of this task was to create a GitHub repository.
 
 ### Subtask 3️⃣: Why did you decide to take part in the challenge?
 
@@ -22,9 +22,27 @@ It is the app intended for football scouts. They can use it to look through indi
 
 #### *What are the functionalities of the Scouts Panel app? What are they for? Are they intuitive?*
 
+The Scouts Panel app allows to:
+- sign in,
+- sign out,
+- remind a password,
+- change a language (Polish/English),
+- add a new player,
+- see the list of players,
+- download the list of players as a CSV file,
+- print the list of players,
+- filter the list of players,
+- see and edit the last created player,
+- see and edit the last updated player,
+- see and edit the last updated match,
+- see and edit the last updated report,
+- search through the list of players,
+- add a match,
+- add a report.
+
 #### *What is the interface like?*
 
-The interface is not very user-friendly. It is difficult to find some functionalities.
+The interface is not very user-friendly. It is difficult to find some functionalities. The dashboard page is not well organized and easy on the eyes.
 
 #### *Is the app intuitive?*
 
@@ -32,7 +50,7 @@ The app is not intuitive. It is difficult to find some functionalities. For exam
 
 #### *Do you see any bugs?*
 
-
+Yes. For example, when I click the "ADD REPORT" button I am redirected to the matches subpage.
 
 ### Subtask 5️⃣
 
