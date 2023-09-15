@@ -76,7 +76,17 @@ You can find my test cases [here](https://drive.google.com/file/d/1tmBDvzChu0KJt
 
 *Why do we write test cases?*
 
+ISTQB defines a test case as A set of preconditions, inputs, actions (where applicable), expected results and postconditions, developed based on test conditions.
 
+Writing test cases is considered as one of the most important parts of software testing. It is used by the testing team, development team as well as the management. If there is no documentation for an application, we can use test case as a baseline document. (https://blog.e-zest.com/why-test-cases-are-so-important/)
+
+The objective of writing test cases is to ensure that software functions correctly and meets the specified requirements. Some of the key objectives of writing test cases,
+- To verify the specific feature or functionality of the software application.
+- To guide software testers in their day-to-day testing activities.
+- To identify usability issues and design gaps in the software at an early stage.
+- To record a catalog of steps for future reference in case of bugs.
+- To provide a blueprint for upcoming projects and software testers, saving them from starting from scratch.
+- To help new testers and developers quickly grasp testing, even when they join in the middle of an ongoing project. (https://testsigma.com/guides/what-is-test-case/)
 
 ### Subtask 4️⃣
 
