@@ -56,7 +56,31 @@ Yes. For example, when I click the "ADD REPORT" button I am redirected to the ma
 
 ## Task 2️⃣
 
-In progress...
+### Subtask 1️⃣
+
+The goal of this task was to write test cases based on user stories.
+
+There were two user stories:
+- US_01 As a Football Scout, I would like to have a login platform to be able to log into the system
+- US_02 As a Football Scout, I would like to add a new player to be able to trade it in the future
+
+You can find my test cases [here](https://drive.google.com/file/d/1TIPUuGMhfi_9x-QbHTQgEe4sTyru_FZ1/view?usp=drive_link).
+
+### Subtask 2️⃣
+
+The goal of this task was to write experience-based test cases.
+
+You can find my test cases [here](https://drive.google.com/file/d/1tmBDvzChu0KJteq8GOTWnhDKjEMRxln9/view?usp=drive_link).
+
+### Subtask 3️⃣: Why do we write test cases?
+
+
+
+### Subtask 4️⃣
+
+The goal of this task was to write experience-based test cases of the Pick Eat Up app.
+
+The test cases are available [here]().
 
 ## Task 3️⃣
 
