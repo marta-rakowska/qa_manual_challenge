@@ -104,13 +104,13 @@ The goal of this task was to create a bug report form.
 
 The goal of this task was to execute tests and create bug reports.
 
-The bug reports are available [here]().
+The bug reports are available [here](https://drive.google.com/file/d/18R3WekLHHSkZMOVG58ElBaSZeMv5wBkk/view?usp=drive_link).
 
 ### Subtask 3️⃣
 
 The goal of this task was to create a test report. 
 
-The test report is available [here]().
+The test report is available [here](https://drive.google.com/file/d/1C13cFu-YnkE8hZ971OqlNakzZ-VHBY9U/view?usp=drive_link).
 
 ## Task 4️⃣
 
