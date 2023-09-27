@@ -96,7 +96,17 @@ The test cases are available [here]().
 
 ## Task 3️⃣
 
-In progress...
+### Subtask 1️⃣
+
+The goal of this task was to create a bug report form.
+
+### Subtask 2️⃣
+
+The goal of this task was to execute tests and create bug reports.
+
+### Subtask 3️⃣
+
+The goal of this task was to create a test report. 
 
 ## Task 4️⃣
 
