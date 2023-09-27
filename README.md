@@ -104,9 +104,13 @@ The goal of this task was to create a bug report form.
 
 The goal of this task was to execute tests and create bug reports.
 
+The bug reports are available [here]().
+
 ### Subtask 3️⃣
 
 The goal of this task was to create a test report. 
+
+The test report is available [here]().
 
 ## Task 4️⃣
 
