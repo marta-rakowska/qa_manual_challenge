@@ -92,7 +92,7 @@ The objective of writing test cases is to ensure that software functions correct
 
 The goal of this task was to write experience-based test cases of the Pick Eat Up app.
 
-The test cases are available [here]().
+You can find my test cases [here]().
 
 ## Task 3️⃣
 
@@ -104,17 +104,39 @@ The goal of this task was to create a bug report form.
 
 The goal of this task was to execute tests and create bug reports.
 
-The bug reports are available [here](https://drive.google.com/file/d/18R3WekLHHSkZMOVG58ElBaSZeMv5wBkk/view?usp=drive_link).
+My bug reports are available [here](https://drive.google.com/file/d/18R3WekLHHSkZMOVG58ElBaSZeMv5wBkk/view?usp=drive_link).
 
 ### Subtask 3️⃣
 
 The goal of this task was to create a test report. 
 
-The test report is available [here](https://drive.google.com/file/d/1C13cFu-YnkE8hZ971OqlNakzZ-VHBY9U/view?usp=drive_link).
+My test report is available [here](https://drive.google.com/file/d/1C13cFu-YnkE8hZ971OqlNakzZ-VHBY9U/view?usp=drive_link).
 
 ## Task 4️⃣
 
-In progress...
+### Subtask 1️⃣
+
+The goal of this task was to create a bug report form for mobile testing.
+
+### Subtask 2️⃣
+
+The goal of this task was to perform exploratory testing of the OLX mobile app and report bugs.
+
+You can find my bug reports [here]().
+
+### Subtask 3️⃣
+
+#### *What is this app for?*
+
+#### *Who is the end user of this app?*
+
+#### *Is the app user-friendly?*
+
+#### *How would you improve the app? Do you have any idea for a new functionality?*
+
+#### *What are the differences between testing web and native applications?*
+
+### Subtask 4️⃣
 
 ## Task 5️⃣
 
