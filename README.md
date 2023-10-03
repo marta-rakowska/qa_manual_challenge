@@ -128,13 +128,23 @@ You can find my bug reports [here]().
 
 #### *What is this app for?*
 
+OLX is an app for buying and selling. You can get rid of unwanted items or buy something you need. You can find there both new and used things. The app offers secure payments and cheap shipping. There are also job advertisements so it can be useful if you are looking for a job or an employee.
+
 #### *Who is the end user of this app?*
+
+The end user of this app can be anyone regardless of age and gender. Everyone can find something interesting in this app. 
 
 #### *Is the app user-friendly?*
 
+In my opinion this app is user-friendly but I've been useing it for a long time and I got used to it. As far as I know, for some people "Kup z przesyłką" option is not very intuitive. 
+
 #### *How would you improve the app? Do you have any idea for a new functionality?*
 
+For me the greatest drawback of this app is the fact that when you sell something the advertisement is still visible in the app. People can no longer buy this item through OLX but you have to remove the advertisement manually and it is annoying when you sell more things. It would be great if there was a functionality that allows to remove an advertisement while confirming a sale.
+
 #### *What are the differences between testing web and native applications?*
+
+Testing web and native applications require two completely different approaches. While testing native applications testers should pay attention to different aspects, such as battery consumption or screen resolution. 
 
 ### Subtask 4️⃣
 
