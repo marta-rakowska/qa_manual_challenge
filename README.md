@@ -118,7 +118,7 @@ My test report is available [here](https://drive.google.com/file/d/1C13cFu-YnkE8
 
 The goal of this task was to create a bug report form for mobile testing.
 
-My bug report form is available [here](https://drive.google.com/file/d/1OGuELgnBq5A-m8Onv7gCu3XqPQL_kYQt/view?usp=drive_link)
+My bug report form is available [here](https://drive.google.com/file/d/1cll68DsHW5rWP0_kbsEOYNF1QazNGb0-/view?usp=drive_link).
 
 ### Subtask 2️⃣
 
