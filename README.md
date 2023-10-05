@@ -152,7 +152,26 @@ Testing web and native applications require two completely different approaches.
 
 ## Task 5️⃣
 
-In progress...
+### Subtask 1️⃣
+
+The goal of this task was to learn SQL basics.
+
+### Subtask 2️⃣
+
+The goal of this task was to set up an environment and import a database.
+
+### Subtask 3️⃣
+
+1. Display actors table in alphabetical order sorting by surname.
+2. Display a film made in 2019.
+3. Display all films made between 1900 and 1999.
+4. Display titles and prices of films that cost less than 7$.
+5. Use the logical operator AND to display actors with actor_id between 4 and 7 (including 4 and 7). Don't use BETWEEN operator.
+6. Display clients with ids 2, 4, 6. Use a logical condition.
+7. Display clients with ids 1, 3, 5. Use the IN operator.
+8. Display data of all persons from 'actors' table whose name starts with 'An'.
+9. Display data of the client whose e-mail address is missing.
+10. Display all films which price is above 9$ and their movie_id is between 2 and 8.
 
 ## Task 6️⃣
 
