@@ -146,7 +146,7 @@ For me the greatest drawback of this app is the fact that when you sell somethin
 
 #### *What are the differences between testing web and native applications?*
 
-Testing web and native applications require two completely different approaches. While testing native applications testers should pay attention to different aspects, such as battery consumption or screen resolution. 
+Testing web and native applications requires two completely different approaches. While testing native applications testers should pay attention to different aspects, such as battery consumption or screen resolution. 
 
 ### Subtask 4️⃣
 
