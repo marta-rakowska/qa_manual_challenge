@@ -192,7 +192,7 @@ The goal of this task was to set up an environment and import a database.
 
    <img width="220" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/1014ca86-b29d-48c7-b6d5-4283e4e95c91">
 
-6. Display clients with ids 2, 4, 6. Use a logical condition.
+6. Display customers with ids 2, 4, 6. Use a logical condition.
    
    SELECT * FROM customers WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6
 
