@@ -163,15 +163,25 @@ The goal of this task was to set up an environment and import a database.
 ### Subtask 3️⃣
 
 1. Display actors table in alphabetical order sorting by surname.
+
+SELECT * FROM actors ORDER BY surname ASC
+
+<img width="232" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/0980aa62-3244-40fa-acdf-9e81fa1cb7f1">
+
 2. Display a film made in 2019.
-3. Display all films made between 1900 and 1999.
-4. Display titles and prices of films that cost less than 7$.
-5. Use the logical operator AND to display actors with actor_id between 4 and 7 (including 4 and 7). Don't use BETWEEN operator.
-6. Display clients with ids 2, 4, 6. Use a logical condition.
-7. Display clients with ids 1, 3, 5. Use the IN operator.
-8. Display data of all persons from 'actors' table whose name starts with 'An'.
-9. Display data of the client whose e-mail address is missing.
-10. Display all films which price is above 9$ and their movie_id is between 2 and 8.
+
+SELECT * FROM movies WHERE year_of_production = '2019'
+
+<img width="294" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/2d173bec-3aa1-4642-9336-60622c31e651">
+
+4. Display all films made between 1900 and 1999.
+5. Display titles and prices of films that cost less than 7$.
+6. Use the logical operator AND to display actors with actor_id between 4 and 7 (including 4 and 7). Don't use BETWEEN operator.
+7. Display clients with ids 2, 4, 6. Use a logical condition.
+8. Display clients with ids 1, 3, 5. Use the IN operator.
+9. Display data of all persons from 'actors' table whose name starts with 'An'.
+10. Display data of the client whose e-mail address is missing.
+11. Display all films which price is above 9$ and their movie_id is between 2 and 8.
 
 ## Task 6️⃣
 
