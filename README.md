@@ -164,26 +164,50 @@ The goal of this task was to set up an environment and import a database.
 
 1. Display actors table in alphabetical order sorting by surname.
 
-SELECT * FROM actors ORDER BY surname ASC
+   SELECT * FROM actors ORDER BY surname ASC
 
-<img width="232" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/0980aa62-3244-40fa-acdf-9e81fa1cb7f1">
+   <img width="232" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/0980aa62-3244-40fa-acdf-9e81fa1cb7f1">
 
 2. Display a film made in 2019.
 
-SELECT * FROM movies WHERE year_of_production = '2019'
+   SELECT * FROM movies WHERE year_of_production = '2019'
 
-<img width="294" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/2d173bec-3aa1-4642-9336-60622c31e651">
+   <img width="294" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/2d173bec-3aa1-4642-9336-60622c31e651">
 
 3. Display all films made between 1900 and 1999.
 
+   SELECT * FROM movies WHERE year_of_production BETWEEN 1900 AND 1999
+
+   <img width="462" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/8bfc1b9e-2035-4afb-98ca-63495fd3df89">
+  
+4. Display titles and prices of films that cost less than 7$.
+
+   SELECT  title, price FROM movies WHERE price > 7
+
+   <img width="204" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/229bb03f-d830-4b1e-95b6-b3942c0a7b53">
+
+5. Use the logical operator AND to display actors with actor_id between 4 and 7 (including 4 and 7). Don't use BETWEEN operator.
+
+   SELECT * FROM actors WHERE actor_id >= 4 AND actor_id <= 7
+
+   <img width="220" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/1014ca86-b29d-48c7-b6d5-4283e4e95c91">
+
+6. Display clients with ids 2, 4, 6. Use a logical condition.
    
-6. Display titles and prices of films that cost less than 7$.
-7. Use the logical operator AND to display actors with actor_id between 4 and 7 (including 4 and 7). Don't use BETWEEN operator.
-8. Display clients with ids 2, 4, 6. Use a logical condition.
-9. Display clients with ids 1, 3, 5. Use the IN operator.
-10. Display data of all persons from 'actors' table whose name starts with 'An'.
-11. Display data of the client whose e-mail address is missing.
-12. Display all films which price is above 9$ and their movie_id is between 2 and 8.
+   SELECT * FROM customers WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6
+
+   <img width="329" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/53747cbc-c9ba-4026-a8be-a40a0a86a684">
+
+   
+8. Display customers with ids 1, 3, 5. Use the IN operator.
+
+    SELECT * FROM customers WHERE customer_id IN (1, 3, 5)
+
+    <img width="323" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/8e4a306e-ebaf-40af-8857-0014455bfb4e">
+
+12. Display data of all persons from 'actors' table whose name starts with 'An'.
+13. Display data of the client whose e-mail address is missing.
+14. Display all films which price is above 9$ and their movie_id is between 2 and 8.
 
 ## Task 6️⃣
 
