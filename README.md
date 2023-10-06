@@ -182,9 +182,9 @@ The goal of this task was to set up an environment and import a database.
   
 4. Display titles and prices of films that cost less than 7$.
 
-   SELECT  title, price FROM movies WHERE price > 7
+   SELECT  title, price FROM movies WHERE price < 7
 
-   <img width="204" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/229bb03f-d830-4b1e-95b6-b3942c0a7b53">
+   <img width="279" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/a5aae511-2f37-43e9-ba5a-569657c6c38a">
 
 5. Use the logical operator AND to display actors with actor_id between 4 and 7 (including 4 and 7). Don't use BETWEEN operator.
 
@@ -199,15 +199,29 @@ The goal of this task was to set up an environment and import a database.
    <img width="329" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/53747cbc-c9ba-4026-a8be-a40a0a86a684">
 
    
-8. Display customers with ids 1, 3, 5. Use the IN operator.
+7. Display customers with ids 1, 3, 5. Use the IN operator.
 
-    SELECT * FROM customers WHERE customer_id IN (1, 3, 5)
+   SELECT * FROM customers WHERE customer_id IN (1, 3, 5)
 
-    <img width="323" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/8e4a306e-ebaf-40af-8857-0014455bfb4e">
+   <img width="323" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/8e4a306e-ebaf-40af-8857-0014455bfb4e">
 
-12. Display data of all persons from 'actors' table whose name starts with 'An'.
-13. Display data of the client whose e-mail address is missing.
-14. Display all films which price is above 9$ and their movie_id is between 2 and 8.
+8. Display data of all persons from 'actors' table whose name starts with 'An'.
+
+   SELECT * FROM actors WHERE name LIKE 'An%'
+
+   <img width="225" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/8a474525-b58e-4fca-8c80-3a5cb44e5081">
+    
+9. Display data of the client whose e-mail address is missing.
+
+   SELECT * FROM customers WHERE email IS NULL
+
+   <img width="260" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/65ae6428-88db-4f02-bb2d-1b783b4b0ed6">
+   
+10. Display all films which price is above 9$ and their movie_id is between 2 and 8.
+
+   SELECT * FROM movies WHERE price > 9 AND movie_id BETWEEN 2 and 8
+
+   <img width="321" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/64be4d1e-b25c-4a56-8b4d-8ddf1336ac50">
 
 ## Task 6️⃣
 
