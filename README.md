@@ -10,7 +10,9 @@ Entry test result: 10/10 points
 
 The goal of this task was to create a GitHub repository.
 
-### Subtask 3️⃣: Why did you decide to take part in the challenge?
+### Subtask 3️⃣
+
+#### *Why did you decide to take part in the challenge?*
 
 I decided to take part in the challenge cause I would like to extend my knowledge, practice manual testing and enrich my portfolio with another great project.
 
@@ -149,6 +151,10 @@ For me the greatest drawback of this app is the fact that when you sell somethin
 Testing web and native applications requires two completely different approaches. While testing native applications testers should pay attention to different aspects, such as battery consumption or screen resolution. 
 
 ### Subtask 4️⃣
+
+It was a team project.
+
+The project in Jira is available [here](https://olgagrzywa.atlassian.net/jira/software/projects/DCP/boards/3).
 
 ## Task 5️⃣
 
