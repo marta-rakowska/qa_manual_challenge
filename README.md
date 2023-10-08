@@ -154,7 +154,7 @@ Testing web and native applications requires two completely different approaches
 
 The goal of this task was to execute tests of the [SwipeTo](https://swipeto.pl) app (both the web app and the mobile app).
 
-It was a team project.
+It was an optional team project.
 
 The project in Jira is available [here](https://olgagrzywa.atlassian.net/jira/software/projects/DCP/boards/3).
 
