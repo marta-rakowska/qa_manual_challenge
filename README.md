@@ -233,7 +233,13 @@ The goal of this task was to set up an environment and import a database.
 
 ## Task 6️⃣
 
-In progress...
+### Subtask 1️⃣
+
+### Subtask 2️⃣
+
+The goal of this task was to take the ECRU test from the getistqb.com website.
+
+My result: 
 
 
 
