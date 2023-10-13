@@ -206,7 +206,6 @@ The goal of this task was to set up an environment and import a database.
 
    <img width="329" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/53747cbc-c9ba-4026-a8be-a40a0a86a684">
 
-   
 7. Display customers with ids 1, 3, 5. Use the IN operator.
 
    SELECT * FROM customers WHERE customer_id IN (1, 3, 5)
@@ -234,6 +233,16 @@ The goal of this task was to set up an environment and import a database.
 ## Task 6️⃣
 
 ### Subtask 1️⃣
+
+The goal of this task was to write SQL queries based on stories.
+
+11. I made a mistake entering the surname of Ania Miler and I entered Muler. Find and use a function that will correct my error.
+12. I collected too much money from the client who bought the film with ID 4. Using the JOIN function, check the client's name an e-mail so that I can write him/her an e-mail and inform about my mistake.
+13. The sales assistant forgot to enter an e-mail address of the customer whose name is Patrycja. Fill it in with pati@mail.com.
+14. For each purchase display name and surname of the customer who rented a movie (use INNER JOIN function).
+15. To anonymise data, you want to create nicknames of your customers. Add a column "Nickname" to the customer table. Fill in the column. To create a nickname use two first letters of the name and the last letter of the surname.
+16. Display titles of the movies that were bought. Titles shouldn't repeat.
+17.  
 
 ### Subtask 2️⃣
 
