@@ -239,7 +239,7 @@ The goal of this task was to set up an environment and import a database.
 
 The goal of this task was to take the ECRU test from the getistqb.com website.
 
-My result: 
+My result: 13/15
 
 
 
