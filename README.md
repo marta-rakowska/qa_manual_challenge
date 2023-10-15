@@ -178,7 +178,7 @@ The goal of this task was to set up an environment and import a database.
 
    <img width="232" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/0980aa62-3244-40fa-acdf-9e81fa1cb7f1">
 
-3. Display a film made in 2019.
+3. Display a movie made in 2019.
 
    SELECT *
    FROM movies
@@ -186,7 +186,7 @@ The goal of this task was to set up an environment and import a database.
 
    <img width="294" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/2d173bec-3aa1-4642-9336-60622c31e651">
 
-4. Display all films made between 1900 and 1999.
+4. Display all movies made between 1900 and 1999.
 
    SELECT *
    FROM movies
@@ -194,7 +194,7 @@ The goal of this task was to set up an environment and import a database.
 
    <img width="462" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/8bfc1b9e-2035-4afb-98ca-63495fd3df89">
   
-5. Display titles and prices of films that cost less than 7$.
+5. Display titles and prices of movies that cost less than 7$.
 
    SELECT title, price
    FROM movies
@@ -242,7 +242,7 @@ The goal of this task was to set up an environment and import a database.
 
    <img width="260" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/65ae6428-88db-4f02-bb2d-1b783b4b0ed6">
    
-11. Display all films which price is above 9$ and their movie_id is between 2 and 8.
+11. Display all movies which price is above 9$ and their movie_id is between 2 and 8.
 
    SELECT * 
    FROM movies 
@@ -254,7 +254,7 @@ The goal of this task was to set up an environment and import a database.
 
 ### Subtask 1️⃣
 
-The goal of this task was to write SQL queries based on stories.
+The goal of this task was to write SQL queries.
 
 11. I made a mistake while entering the surname of Ania Miler and I entered Muler. Find and use a function that will correct my error.
     
@@ -262,7 +262,7 @@ The goal of this task was to write SQL queries based on stories.
     SET surname = 'Miler'
     WHERE surname = 'Muler';
     
-13. I collected too much money from the client who bought the film with ID 4. Using the JOIN function, check the client's name an e-mail so that I can write him/her an e-mail and inform about my mistake.
+13. I collected too much money from the client who bought the movie with id 4. Using the JOIN function, check the client's name an e-mail so that I can write him/her an e-mail and inform about my mistake.
 
     SELECT customers.name, customers.email, sale.movie_id
     FROM customers
@@ -278,7 +278,7 @@ The goal of this task was to write SQL queries based on stories.
     SET email = 'pati@mail.com'
     WHERE name = 'Patrycja';
     
-16. For each purchase display name and surname of the customer who rented a movie. Use the INNER JOIN function.
+16. For each purchase display name and surname of the customer who bought a movie. Use the INNER JOIN function.
 
     SELECT customers.name, customers.surname, movies.title
     FROM sale
@@ -319,7 +319,7 @@ The goal of this task was to write SQL queries based on stories.
 
     <img width="95" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/6a6520ec-2fc9-4384-b21d-a9792a0b9946">
 
-23. Due to inflation, increase prices of all the films made after 2000 by 2,5$.
+23. Due to inflation, increase prices of all the movies made after 2000 by 2,5$.
 24. Display name and surname of the actor with ID 4 and the title of the movie in which he/she played.
 25. Where is our HONIA? Add a new tuple to the customers table, where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, e-mail = honia@mail.com, nickname = Hoa.
 
