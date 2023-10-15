@@ -247,13 +247,16 @@ The goal of this task was to write SQL queries based on stories.
     <img width="243" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/1e2636ce-ef7d-4e95-a027-ac5bb297cb46">
 
 14. The sales assistant forgot to enter an e-mail address of the customer whose name is Patrycja. Fill it in with pati@mail.com.
-15. For each purchase display name and surname of the customer who rented a movie. Use the INNER JOIN function.
-16. To anonymise data, you want to create nicknames of your customers. Add a column "Nickname" to the customer table. Fill in the column. To create a nickname use two first letters of the name and the last letter of the surname.
-17. Display titles of the movies that were bought. Titles must be unique.
-18. Display a common list of all actors and customers. Sort it alphabetically. Use the UNION function.
-19. Due to inflation, increase prices of all the films made after 2000 by 2,5$.
-20. Display name and surname of the actor with ID 4 and the title of the movie in which he/she played.
-21. Where is our HONIA? Add a new tuple to the customers table, where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, e-mail = honia@mail.com, nickname = Hoa.
+
+    UPDATE customers SET email='pati@mail.com' WHERE name='Patrycja';
+    
+16. For each purchase display name and surname of the customer who rented a movie. Use the INNER JOIN function.
+17. To anonymise data, you want to create nicknames of your customers. Add a column "Nickname" to the customer table. Fill in the column. To create a nickname use two first letters of the name and the last letter of the surname.
+18. Display titles of the movies that were bought. Titles must be unique.
+19. Display a common list of all actors and customers. Sort it alphabetically. Use the UNION function.
+20. Due to inflation, increase prices of all the films made after 2000 by 2,5$.
+21. Display name and surname of the actor with ID 4 and the title of the movie in which he/she played.
+22. Where is our HONIA? Add a new tuple to the customers table, where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, e-mail = honia@mail.com, nickname = Hoa.
 
 ### Subtask 2️⃣
 
