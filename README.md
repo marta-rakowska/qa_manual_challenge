@@ -172,9 +172,9 @@ The goal of this task was to set up an environment and import a database.
 
 1. Display actors table in alphabetical order sorting by surname.
 
-   SELECT *
+   '''{SELECT *
    FROM actors
-   ORDER BY surname ASC;
+   ORDER BY surname ASC;'''}
 
    <img width="232" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/0980aa62-3244-40fa-acdf-9e81fa1cb7f1">
 
