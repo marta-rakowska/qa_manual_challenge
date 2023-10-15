@@ -292,7 +292,7 @@ The goal of this task was to write SQL queries based on stories.
 18. To anonymise data, you want to create nicknames of your customers. Add a column "Nickname" to the customer table. Fill in the column. To create a nickname use two first letters of the name and the last letter of the surname.
 16. Display titles of the movies that were bought. Titles must be unique.
 
-    SELECT DISTINCT(movies.title)
+    SELECT DISTINCT movies.title
     FROM movies
     JOIN sale
     ON sale.movie_id = movies.movie_id;
