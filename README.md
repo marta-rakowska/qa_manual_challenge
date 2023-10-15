@@ -289,13 +289,20 @@ The goal of this task was to write SQL queries based on stories.
 
     <img width="369" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/f3fbf2e7-50d5-4081-9563-9cb021ea1afe">
 
-    
 18. To anonymise data, you want to create nicknames of your customers. Add a column "Nickname" to the customer table. Fill in the column. To create a nickname use two first letters of the name and the last letter of the surname.
-19. Display titles of the movies that were bought. Titles must be unique.
-20. Display a common list of all actors and customers. Sort it alphabetically. Use the UNION function.
-21. Due to inflation, increase prices of all the films made after 2000 by 2,5$.
-22. Display name and surname of the actor with ID 4 and the title of the movie in which he/she played.
-23. Where is our HONIA? Add a new tuple to the customers table, where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, e-mail = honia@mail.com, nickname = Hoa.
+16. Display titles of the movies that were bought. Titles must be unique.
+
+    SELECT DISTINCT(movies.title)
+    FROM movies
+    JOIN sale
+    ON sale.movie_id = movies.movie_id;
+
+    <img width="238" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/bca9e9bd-5098-4673-9213-ef59102669d8">
+
+21. Display a common list of all actors and customers. Sort it alphabetically. Use the UNION function.
+22. Due to inflation, increase prices of all the films made after 2000 by 2,5$.
+23. Display name and surname of the actor with ID 4 and the title of the movie in which he/she played.
+24. Where is our HONIA? Add a new tuple to the customers table, where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, e-mail = honia@mail.com, nickname = Hoa.
 
 ### Subtask 2️⃣
 
