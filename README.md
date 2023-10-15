@@ -284,7 +284,7 @@ The goal of this task was to write SQL queries.
     WHERE surname = 'Muler';
     ```
     
-13. I collected too much money from the client who bought the movie with id 4. Using the JOIN function, check the client's name an e-mail so that I can write him/her an e-mail and inform about my mistake.
+12. I collected too much money from the client who bought the movie with id 4. Using the JOIN function, check the client's name an e-mail so that I can write him/her an e-mail and inform about my mistake.
 
     ```
     SELECT customers.name, customers.email, sale.movie_id
@@ -296,7 +296,7 @@ The goal of this task was to write SQL queries.
 
     <img width="243" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/1e2636ce-ef7d-4e95-a027-ac5bb297cb46">
 
-14. The sales assistant forgot to enter an e-mail address of the customer whose name is Patrycja. Fill it in with pati@mail.com.
+13. The sales assistant forgot to enter an e-mail address of the customer whose name is Patrycja. Fill it in with pati@mail.com.
 
     ```
     UPDATE customers
@@ -304,7 +304,7 @@ The goal of this task was to write SQL queries.
     WHERE name = 'Patrycja';
     ```
     
-16. For each purchase display name and surname of the customer who bought a movie. Use the INNER JOIN function.
+14. For each purchase display name and surname of the customer who bought a movie. Use the INNER JOIN function.
 
     ```
     SELECT customers.name, customers.surname, movies.title
@@ -317,7 +317,7 @@ The goal of this task was to write SQL queries.
 
     <img width="369" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/f3fbf2e7-50d5-4081-9563-9cb021ea1afe">
 
-18. To anonymise data, you want to create nicknames of your customers. Add a column "Nickname" to the customer table. Fill in the column. To create a nickname use two first letters of the name and the last letter of the surname.
+15. To anonymise data, you want to create nicknames of your customers. Add a column "Nickname" to the customer table. Fill in the column. To create a nickname use two first letters of the name and the last letter of the surname.
 
     ```
     ALTER TABLE customers
@@ -371,7 +371,7 @@ The goal of this task was to write SQL queries.
 
     <img width="501" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/60b23dcd-8be8-41b2-934f-e95a93976e6d">
     
-20. Display name and surname of the actor with id 4 and the title of the movie in which he/she played.
+19. Display name and surname of the actor with id 4 and the title of the movie in which he/she played.
 
     ```
     SELECT actors.actor_id, actors.name, actors.surname, movies.title 
@@ -385,7 +385,7 @@ The goal of this task was to write SQL queries.
 
     <img width="283" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/b2fc3620-0b61-4fde-ae87-ea30be1d6bac">
 
-21. Where is our HONIA? Add a new tuple to the customers table, where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, e-mail = honia@mail.com, nickname = Hoa.
+20. Where is our HONIA? Add a new tuple to the customers table, where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, e-mail = `honia@mail.com`, nickname = Hoa.
 
     ```
     INSERT INTO customers (customer_id, name, surname, email, nickname)
