@@ -172,9 +172,9 @@ The goal of this task was to set up an environment and import a database.
 
 1. Display actors table in alphabetical order sorting by surname.
 
-   > SELECT *
-     FROM actors
-     ORDER BY surname ASC;
+   SELECT *
+   FROM actors
+   ORDER BY surname ASC;
 
    <img width="232" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/0980aa62-3244-40fa-acdf-9e81fa1cb7f1">
 
@@ -236,17 +236,17 @@ The goal of this task was to set up an environment and import a database.
     
 10. Display data of the client whose e-mail address is missing.
 
-   SELECT *
-   FROM customers
-   WHERE email IS NULL;
+    SELECT *
+    FROM customers
+    WHERE email IS NULL;
 
    <img width="260" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/65ae6428-88db-4f02-bb2d-1b783b4b0ed6">
    
 11. Display all movies which price is above 9$ and their movie_id is between 2 and 8.
 
-   SELECT * 
-   FROM movies 
-   WHERE price > 9 AND movie_id BETWEEN 2 and 8;
+    SELECT * 
+    FROM movies 
+    WHERE price > 9 AND movie_id BETWEEN 2 and 8;
 
    <img width="321" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/64be4d1e-b25c-4a56-8b4d-8ddf1336ac50">
 
@@ -347,8 +347,10 @@ The goal of this task was to write SQL queries.
 
 21. Where is our HONIA? Add a new tuple to the customers table, where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, e-mail = honia@mail.com, nickname = Hoa.
 
+    '''
     INSERT INTO customers (customer_id, name, surname, email, nickname)
     VALUES (7, 'Honia','Stuczka-Kucharska', 'honia@mail.com', 'Hoa');
+    '''
 
     <img width="476" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/e60cf34a-d119-43d6-a1f4-039c40c9204b">
 
