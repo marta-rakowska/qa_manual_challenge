@@ -248,7 +248,7 @@ The goal of this task was to write SQL queries based on stories.
 
 14. The sales assistant forgot to enter an e-mail address of the customer whose name is Patrycja. Fill it in with pati@mail.com.
 
-    UPDATE customers SET email='pati@mail.com' WHERE name='Patrycja';
+    UPDATE customers SET email = 'pati@mail.com' WHERE name = 'Patrycja';
     
 16. For each purchase display name and surname of the customer who rented a movie. Use the INNER JOIN function.
 17. To anonymise data, you want to create nicknames of your customers. Add a column "Nickname" to the customer table. Fill in the column. To create a nickname use two first letters of the name and the last letter of the surname.
