@@ -290,6 +290,15 @@ The goal of this task was to write SQL queries based on stories.
     <img width="369" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/f3fbf2e7-50d5-4081-9563-9cb021ea1afe">
 
 18. To anonymise data, you want to create nicknames of your customers. Add a column "Nickname" to the customer table. Fill in the column. To create a nickname use two first letters of the name and the last letter of the surname.
+
+    ALTER TABLE customers
+    ADD nickname varchar(3);
+
+    UPDATE customers
+    SET nickname = CONCAT(LEFT(name,2), RIGHT(surname,1));
+
+    <img width="427" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/9e5b651c-d4c1-4993-8f6a-ab440d9a0a14">
+
 16. Display titles of the movies that were bought. Titles must be unique.
 
     SELECT DISTINCT movies.title
