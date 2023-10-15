@@ -321,7 +321,12 @@ The goal of this task was to write SQL queries.
 
 23. Due to inflation, increase prices of all the movies made after 2000 by 2,5$.
 24. Display name and surname of the actor with ID 4 and the title of the movie in which he/she played.
-25. Where is our HONIA? Add a new tuple to the customers table, where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, e-mail = honia@mail.com, nickname = Hoa.
+20. Where is our HONIA? Add a new tuple to the customers table, where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, e-mail = honia@mail.com, nickname = Hoa.
+
+    INSERT INTO customers (customer_id, name, surname, email, nickname)
+    VALUES (7, 'Honia','Stuczka-Kucharska', 'honia@mail.com', 'Hoa');
+
+    <img width="476" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/e60cf34a-d119-43d6-a1f4-039c40c9204b">
 
 ### Subtask 2️⃣
 
