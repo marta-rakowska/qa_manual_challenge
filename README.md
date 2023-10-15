@@ -236,16 +236,19 @@ The goal of this task was to set up an environment and import a database.
 
 The goal of this task was to write SQL queries based on stories.
 
-11. I made a mistake entering the surname of Ania Miler and I entered Muler. Find and use a function that will correct my error.
+11. I made a mistake while entering the surname of Ania Miler and I entered Muler. Find and use a function that will correct my error.
+    
+    UPDATE customers SET surname='Miler' WHERE surname='Muler';
+    
 12. I collected too much money from the client who bought the film with ID 4. Using the JOIN function, check the client's name an e-mail so that I can write him/her an e-mail and inform about my mistake.
-13. The sales assistant forgot to enter an e-mail address of the customer whose name is Patrycja. Fill it in with pati@mail.com.
-14. For each purchase display name and surname of the customer who rented a movie. Use the INNER JOIN function.
-15. To anonymise data, you want to create nicknames of your customers. Add a column "Nickname" to the customer table. Fill in the column. To create a nickname use two first letters of the name and the last letter of the surname.
-16. Display titles of the movies that were bought. Titles must be unique.
-17. Display a common list of all actors and customers. Sort it alphabetically. Use the UNION function.
-18. Due to inflation, increase prices of all the films made after 2000 by 2,5$.
-19. Display name and surname of the actor with ID 4 and the title of the movie in which he/she played.
-20. Where is our HONIA? Add a new tuple to the customers table, where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, e-mail = honia@mail.com, nickname = Hoa.
+14. The sales assistant forgot to enter an e-mail address of the customer whose name is Patrycja. Fill it in with pati@mail.com.
+15. For each purchase display name and surname of the customer who rented a movie. Use the INNER JOIN function.
+16. To anonymise data, you want to create nicknames of your customers. Add a column "Nickname" to the customer table. Fill in the column. To create a nickname use two first letters of the name and the last letter of the surname.
+17. Display titles of the movies that were bought. Titles must be unique.
+18. Display a common list of all actors and customers. Sort it alphabetically. Use the UNION function.
+19. Due to inflation, increase prices of all the films made after 2000 by 2,5$.
+20. Display name and surname of the actor with ID 4 and the title of the movie in which he/she played.
+21. Where is our HONIA? Add a new tuple to the customers table, where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, e-mail = honia@mail.com, nickname = Hoa.
 
 ### Subtask 2️⃣
 
