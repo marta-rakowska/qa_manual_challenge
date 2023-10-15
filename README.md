@@ -241,6 +241,11 @@ The goal of this task was to write SQL queries based on stories.
     UPDATE customers SET surname='Miler' WHERE surname='Muler';
     
 12. I collected too much money from the client who bought the film with ID 4. Using the JOIN function, check the client's name an e-mail so that I can write him/her an e-mail and inform about my mistake.
+
+    SELECT customers.name, customers.email, sale.movie_id FROM customers JOIN sale ON sale.customer_id = customers.customer_id WHERE sale.movie_id = 4;
+
+    <img width="243" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/1e2636ce-ef7d-4e95-a027-ac5bb297cb46">
+
 14. The sales assistant forgot to enter an e-mail address of the customer whose name is Patrycja. Fill it in with pati@mail.com.
 15. For each purchase display name and surname of the customer who rented a movie. Use the INNER JOIN function.
 16. To anonymise data, you want to create nicknames of your customers. Add a column "Nickname" to the customer table. Fill in the column. To create a nickname use two first letters of the name and the last letter of the surname.
