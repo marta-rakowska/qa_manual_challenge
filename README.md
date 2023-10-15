@@ -320,7 +320,18 @@ The goal of this task was to write SQL queries.
     <img width="95" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/6a6520ec-2fc9-4384-b21d-a9792a0b9946">
 
 23. Due to inflation, increase prices of all the movies made after 2000 by 2,5$.
-24. Display name and surname of the actor with ID 4 and the title of the movie in which he/she played.
+19. Display name and surname of the actor with id 4 and the title of the movie in which he/she played.
+
+    SELECT actors.actor_id, actors.name, actors.surname, movies.title 
+    FROM actors 
+    JOIN cast 
+    ON actors.actor_id = cast.actor_id 
+    JOIN movies 
+    ON cast.movie_id = movies.movie_id 
+    WHERE actors.actor_id = 4;
+
+    <img width="283" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/b2fc3620-0b61-4fde-ae87-ea30be1d6bac">
+
 20. Where is our HONIA? Add a new tuple to the customers table, where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, e-mail = honia@mail.com, nickname = Hoa.
 
     INSERT INTO customers (customer_id, name, surname, email, nickname)
