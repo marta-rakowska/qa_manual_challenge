@@ -180,17 +180,17 @@ The goal of this task was to set up an environment and import a database.
 
    <img width="232" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/0980aa62-3244-40fa-acdf-9e81fa1cb7f1">
 
-3. Display a movie made in 2019.
+2. Display movies made in 2019.
 
    ```
    SELECT *
    FROM movies
-   WHERE year_of_production = '2019';
+   WHERE year_of_production = 2019;
    ```
 
    <img width="294" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/2d173bec-3aa1-4642-9336-60622c31e651">
 
-4. Display all movies made between 1900 and 1999.
+3. Display all movies made between 1900 and 1999.
 
    ```
    SELECT *
@@ -200,7 +200,7 @@ The goal of this task was to set up an environment and import a database.
 
    <img width="462" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/8bfc1b9e-2035-4afb-98ca-63495fd3df89">
   
-5. Display titles and prices of movies that cost less than 7$.
+4. Display titles and prices of movies that cost less than 7$.
 
    ```
    SELECT title, price
@@ -210,7 +210,7 @@ The goal of this task was to set up an environment and import a database.
 
    <img width="279" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/a5aae511-2f37-43e9-ba5a-569657c6c38a">
 
-6. Use the logical operator AND to display actors with actor_id between 4 and 7 (including 4 and 7). Don't use BETWEEN operator.
+5. Use the logical operator AND to display actors with actor_id between 4 and 7 (including 4 and 7). Don't use the BETWEEN operator.
 
    ```
    SELECT *
@@ -220,7 +220,7 @@ The goal of this task was to set up an environment and import a database.
 
    <img width="220" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/1014ca86-b29d-48c7-b6d5-4283e4e95c91">
 
-7. Display customers with ids 2, 4, 6. Use a logical condition.
+6. Display customers with ids 2, 4, 6. Use a logical condition.
    
    ```
    SELECT *
@@ -230,7 +230,7 @@ The goal of this task was to set up an environment and import a database.
 
    <img width="329" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/53747cbc-c9ba-4026-a8be-a40a0a86a684">
 
-8. Display customers with ids 1, 3, 5. Use the IN operator.
+7. Display customers with ids 1, 3, 5. Use the IN operator.
 
    ```
    SELECT *
@@ -240,7 +240,7 @@ The goal of this task was to set up an environment and import a database.
 
    <img width="323" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/8e4a306e-ebaf-40af-8857-0014455bfb4e">
 
-9. Display data of all persons from 'actors' table whose name starts with 'An'.
+8. Display data of all persons from 'actors' table whose name starts with 'An'.
 
    ```
    SELECT *
@@ -250,7 +250,7 @@ The goal of this task was to set up an environment and import a database.
 
    <img width="225" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/8a474525-b58e-4fca-8c80-3a5cb44e5081">
     
-10. Display data of the client whose e-mail address is missing.
+9. Display data of the client whose e-mail address is missing.
 
     ```
     SELECT *
@@ -260,7 +260,7 @@ The goal of this task was to set up an environment and import a database.
 
    <img width="260" alt="image" src="https://github.com/marta-rakowska/qa_manual_testing_challenge/assets/113170762/65ae6428-88db-4f02-bb2d-1b783b4b0ed6">
    
-11. Display all movies which price is above 9$ and their movie_id is between 2 and 8.
+10. Display all movies which price is above 9$ and their movie_id is between 2 and 8.
 
     ```
     SELECT * 
