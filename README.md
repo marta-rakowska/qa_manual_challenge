@@ -114,6 +114,16 @@ The goal of this task was to create a test report.
 
 My test report is available [here](https://drive.google.com/file/d/1C13cFu-YnkE8hZ971OqlNakzZ-VHBY9U/view?usp=drive_link).
 
+### Subtask 4️⃣
+
+The goal of this task was to perform exploratory testing of the Scouts Panel web application using testing tours.
+
+Tour testing is a structred approach to exploratory testing, where an exploration of a product is organised around a specific theme or feature.
+
+For my exploratory tests I chose the landmark tour.
+
+My bug reports are available [here](https://drive.google.com/file/d/1o8run24qj7QcuBDLYXlhRCsyqrMaFCVL/view?usp=drive_link).
+
 ## Task 4️⃣
 
 ### Subtask 1️⃣
