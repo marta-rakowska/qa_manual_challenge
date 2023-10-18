@@ -14,13 +14,13 @@ The goal of this task was to create a GitHub repository.
 
 #### *Why did you decide to take part in the challenge?*
 
-I decided to take part in the challenge cause I would like to extend my knowledge, practice manual testing and enrich my portfolio with another great project.
+I decided to take part in the challenge because I would like to extend my knowledge, practice manual testing and enrich my portfolio with another great project.
 
 ### Subtask 4️⃣
 
 #### *What is the Scouts Panel app for?*
 
-It is the app intended for football scouts. They can use it to look through indicators, skills and positions of the players.
+It is an app intended for football scouts. They can use it to look through indicators, skills and positions of the players.
 
 #### *What are the functionalities of the Scouts Panel app? What are they for? Are they intuitive?*
 
@@ -48,7 +48,7 @@ The interface is not very user-friendly. It is difficult to find some functional
 
 #### *Is the app intuitive?*
 
-The app is not intuitive. It is difficult to find some functionalities. For example, to add a new match you have to click any activity on the dashboard, click "Matches" on the sidebar menu, then click "Add match" and you are redirected to the form.
+The app is not intuitive. It is difficult to find some functionalities. For example, to add a new match you have to click any activity on the dashboard, click "Matches" on the sidebar menu, then click "Add match" and finally you are redirected to the form.
 
 #### *Do you see any bugs?*
 
@@ -82,13 +82,13 @@ ISTQB defines a test case as A set of preconditions, inputs, actions (where appl
 
 Writing test cases is considered as one of the most important parts of software testing. It is used by the testing team, development team as well as the management. If there is no documentation for an application, we can use test case as a baseline document. (https://blog.e-zest.com/why-test-cases-are-so-important/)
 
-The objective of writing test cases is to ensure that software functions correctly and meets the specified requirements. Some of the key objectives of writing test cases,
+The objective of writing test cases is to ensure that software functions correctly and meets the specified requirements. Some of the key objectives of writing test cases are:
 - To verify the specific feature or functionality of the software application.
 - To guide software testers in their day-to-day testing activities.
 - To identify usability issues and design gaps in the software at an early stage.
 - To record a catalog of steps for future reference in case of bugs.
 - To provide a blueprint for upcoming projects and software testers, saving them from starting from scratch.
-- To help new testers and developers quickly grasp testing, even when they join in the middle of an ongoing project. (https://testsigma.com/guides/what-is-test-case/)
+- To help new testers and developers quickly grasp testing, even when they join in the middle of an ongoing project. [Source](https://testsigma.com/guides/what-is-test-case/)
 
 ### Subtask 4️⃣
 
@@ -102,9 +102,11 @@ You can find my test cases [here](https://drive.google.com/file/d/15ORA86KrKmlgF
 
 The goal of this task was to create a bug report form.
 
+My bug report form is availabe [here](https://drive.google.com/file/d/1mXKFwyr_YbKbW5Z4XkrtKNgZXtmk6588/view?usp=share_link).
+
 ### Subtask 2️⃣
 
-The goal of this task was to execute tests and create bug reports.
+The goal of this task was to execute test cases and create bug reports.
 
 My bug reports are available [here](https://drive.google.com/file/d/18R3WekLHHSkZMOVG58ElBaSZeMv5wBkk/view?usp=drive_link).
 
@@ -116,7 +118,7 @@ My test report is available [here](https://drive.google.com/file/d/1C13cFu-YnkE8
 
 ### Subtask 4️⃣
 
-The goal of this task was to perform exploratory testing of the Scouts Panel web application using testing tours.
+The goal of this task was to perform exploratory testing of the Scouts Panel web application using testing tours approach.
 
 Tour testing is a structred approach to exploratory testing, where an exploration of a product is organised around a specific theme or feature.
 
@@ -142,7 +144,7 @@ You can find my bug reports [here](https://drive.google.com/file/d/18Miaf2L4qagH
 
 #### *What is this app for?*
 
-OLX is an app for buying and selling. You can get rid of unwanted items or buy something you need. You can find there both new and used things. The app offers secure payments and cheap shipping. There are also job advertisements so it can be useful if you are looking for a job or an employee.
+OLX is an app for buying and selling things. You can get rid of unwanted items or buy something you need. You can find there both new and used products. The app offers secure payments and cheap shipping. There are also job advertisements so it can be useful if you are looking for a job or an employee.
 
 #### *Who is the end user of this app?*
 
@@ -158,11 +160,11 @@ For me the greatest drawback of this app is the fact that when you sell somethin
 
 #### *What are the differences between testing web and native applications?*
 
-Testing web and native applications requires two completely different approaches. While testing native applications testers should pay attention to different aspects, such as battery consumption or screen resolution. 
+Testing web and native applications requires completely different approaches. While testing native applications testers should pay attention to different aspects, such as battery consumption or screen resolution. 
 
 ### Subtask 4️⃣
 
-The goal of this task was to execute tests of the [SwipeTo](https://swipeto.pl) app (both the web app and the mobile app).
+The goal of this task was to perform tests of the [SwipeTo](https://swipeto.pl) app (both the web app and the mobile app).
 
 It was an optional team project.
 
