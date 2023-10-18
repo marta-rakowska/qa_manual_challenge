@@ -108,13 +108,13 @@ My bug report form is availabe [here](https://drive.google.com/file/d/1mXKFwyr_Y
 
 The goal of this task was to execute test cases and create bug reports.
 
-My bug reports are available [here](https://drive.google.com/file/d/18R3WekLHHSkZMOVG58ElBaSZeMv5wBkk/view?usp=drive_link).
+My bug reports are available [here](https://drive.google.com/file/d/1kw3nxQsV_7Bq57wQGnRbjw71Ltg2N9Gh/view?usp=sharing).
 
 ### Subtask 3️⃣
 
 The goal of this task was to create a test report. 
 
-My test report is available [here](https://drive.google.com/file/d/1C13cFu-YnkE8hZ971OqlNakzZ-VHBY9U/view?usp=drive_link).
+My test report is available [here](https://drive.google.com/file/d/1opb8ChqGt40wagVPbE09kSiOvmtTaGHf/view?usp=sharing).
 
 ### Subtask 4️⃣
 
@@ -124,7 +124,7 @@ Tour testing is a structred approach to exploratory testing, where an exploratio
 
 For my exploratory tests I chose the landmark tour.
 
-My bug reports are available [here](https://drive.google.com/file/d/1o8run24qj7QcuBDLYXlhRCsyqrMaFCVL/view?usp=drive_link).
+My bug reports are available [here](https://drive.google.com/file/d/1o8run24qj7QcuBDLYXlhRCsyqrMaFCVL/view?usp=sharing).
 
 ## Task 4️⃣
 
@@ -132,7 +132,7 @@ My bug reports are available [here](https://drive.google.com/file/d/1o8run24qj7Q
 
 The goal of this task was to create a bug report form for mobile testing.
 
-My bug report form is available [here](https://drive.google.com/file/d/1cll68DsHW5rWP0_kbsEOYNF1QazNGb0-/view?usp=drive_link).
+My bug report form is available [here](https://drive.google.com/file/d/1cll68DsHW5rWP0_kbsEOYNF1QazNGb0-/view?usp=sharing).
 
 ### Subtask 2️⃣
 
