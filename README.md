@@ -66,13 +66,13 @@ There were two user stories:
 - US_01 As a Football Scout, I would like to have a login platform to be able to log into the system
 - US_02 As a Football Scout, I would like to add a new player to be able to trade it in the future
 
-You can find my test cases [here](https://drive.google.com/file/d/1TIPUuGMhfi_9x-QbHTQgEe4sTyru_FZ1/view?usp=drive_link).
+You can find my test cases [here](https://drive.google.com/file/d/10oXRoLBVF3kVq5rDSiw0_jauna5n5Wuo/view?usp=share_link).
 
 ### Subtask 2️⃣
 
 The goal of this task was to write experience-based test cases.
 
-You can find my test cases [here](https://drive.google.com/file/d/1tmBDvzChu0KJteq8GOTWnhDKjEMRxln9/view?usp=drive_link).
+You can find my test cases [here](https://drive.google.com/file/d/1tmBDvzChu0KJteq8GOTWnhDKjEMRxln9/view?usp=share_link).
 
 ### Subtask 3️⃣
 
