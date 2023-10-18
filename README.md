@@ -54,8 +54,6 @@ The app is not intuitive. It is difficult to find some functionalities. For exam
 
 Yes. For example, when I click the "ADD REPORT" button I am redirected to the matches subpage.
 
-### Subtask 5️⃣
-
 ## Task 2️⃣
 
 ### Subtask 1️⃣
