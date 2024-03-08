@@ -78,7 +78,7 @@ You can find my test cases [here](https://docs.google.com/spreadsheets/d/10exV12
 
 ISTQB defines a test case as A set of preconditions, inputs, actions (where applicable), expected results and postconditions, developed based on test conditions.
 
-Writing test cases is considered as one of the most important parts of software testing. It is used by the testing team, development team as well as the management. If there is no documentation for an application, we can use test case as a baseline document. (https://blog.e-zest.com/why-test-cases-are-so-important/)
+Writing test cases is considered as one of the most important parts of software testing. It is used by the testing team, development team as well as the management. If there is no documentation for an application, we can use test case as a baseline document. [Source](https://blog.e-zest.com/why-test-cases-are-so-important/)
 
 The objective of writing test cases is to ensure that software functions correctly and meets the specified requirements. Some of the key objectives of writing test cases are:
 - To verify the specific feature or functionality of the software application.
