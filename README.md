@@ -64,7 +64,7 @@ There were two user stories:
 - US_01 As a Football Scout, I would like to have a login platform to be able to log into the system
 - US_02 As a Football Scout, I would like to add a new player to be able to trade it in the future
 
-You can find my test cases [here](https://drive.google.com/file/d/10oXRoLBVF3kVq5rDSiw0_jauna5n5Wuo/view?usp=share_link).
+You can find my test cases [here](https://docs.google.com/spreadsheets/d/19Nfb7Q_cwvyGUdAekTpzGqvElZw5gaX7/edit?usp=sharing&ouid=110133304186287068341&rtpof=true&sd=true).
 
 ### Subtask 2️⃣
 
