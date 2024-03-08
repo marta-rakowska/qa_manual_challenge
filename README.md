@@ -70,7 +70,7 @@ You can find my test cases [here](https://docs.google.com/spreadsheets/d/19Nfb7Q
 
 The goal of this task was to write experience-based test cases.
 
-You can find my test cases [here](https://drive.google.com/file/d/1tmBDvzChu0KJteq8GOTWnhDKjEMRxln9/view?usp=share_link).
+You can find my test cases [here]([https://drive.google.com/file/d/1tmBDvzChu0KJteq8GOTWnhDKjEMRxln9/view?usp=share_link](https://docs.google.com/spreadsheets/d/10exV12gPeO_SviA7TZYvgVU0bYgj5aTD/edit?usp=sharing&ouid=110133304186287068341&rtpof=true&sd=true)).
 
 ### Subtask 3️⃣
 
@@ -92,7 +92,7 @@ The objective of writing test cases is to ensure that software functions correct
 
 The goal of this task was to write experience-based test cases of the Pick Eat Up app.
 
-You can find my test cases [here](https://drive.google.com/file/d/15ORA86KrKmlgFxkfjwWYhN_HccEcUzgm/view?usp=sharing).
+You can find my test cases [here](https://docs.google.com/spreadsheets/d/1-ZsCgSI2_2GtKT13MYER3l7WRT5U7dbz/edit?usp=share_link&ouid=110133304186287068341&rtpof=true&sd=true).
 
 ## Task 3️⃣
 
