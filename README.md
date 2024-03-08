@@ -130,13 +130,13 @@ My bug reports are available [here](https://docs.google.com/spreadsheets/d/1RBDN
 
 The goal of this task was to create a bug report form for mobile testing.
 
-My bug report form is available [here](https://drive.google.com/file/d/1cll68DsHW5rWP0_kbsEOYNF1QazNGb0-/view?usp=sharing).
+My bug report form is available [here](https://docs.google.com/spreadsheets/d/1buIox2bz6nDPaZvzNuqwuJYkjFzBXb_W/edit?usp=sharing&ouid=110133304186287068341&rtpof=true&sd=true).
 
 ### Subtask 2️⃣
 
 The goal of this task was to perform exploratory testing of the OLX mobile app and report bugs.
 
-You can find my bug reports [here](https://drive.google.com/file/d/18Miaf2L4qagHtYR3dzqDrx7f9jAlCLra/view?usp=sharing).
+You can find my bug reports [here](https://docs.google.com/spreadsheets/d/1v2jyxK4ur6UGAXqauRKWUffKrQMQK-6L/edit?usp=sharing&ouid=110133304186287068341&rtpof=true&sd=true).
 
 ### Subtask 3️⃣
 
