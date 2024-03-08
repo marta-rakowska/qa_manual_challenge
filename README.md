@@ -100,19 +100,19 @@ You can find my test cases [here](https://docs.google.com/spreadsheets/d/1-ZsCgS
 
 The goal of this task was to create a bug report form.
 
-My bug report form is availabe [here](https://drive.google.com/file/d/1mXKFwyr_YbKbW5Z4XkrtKNgZXtmk6588/view?usp=share_link).
+My bug report form is availabe [here](https://docs.google.com/spreadsheets/d/1IaJE9kQwctltpYxjp_C7p76Fvx_eeB0n/edit?usp=share_link&ouid=110133304186287068341&rtpof=true&sd=true).
 
 ### Subtask 2️⃣
 
 The goal of this task was to execute test cases and create bug reports.
 
-My bug reports are available [here](https://drive.google.com/file/d/1kw3nxQsV_7Bq57wQGnRbjw71Ltg2N9Gh/view?usp=sharing).
+My bug reports are available [here](https://docs.google.com/spreadsheets/d/161kYhJTQg_0osboB62UI9gDVOFJquEMG/edit?usp=sharing&ouid=110133304186287068341&rtpof=true&sd=true).
 
 ### Subtask 3️⃣
 
 The goal of this task was to create a test report. 
 
-My test report is available [here](https://drive.google.com/file/d/1opb8ChqGt40wagVPbE09kSiOvmtTaGHf/view?usp=sharing).
+My test report is available [here](https://docs.google.com/spreadsheets/d/1RQZ40izSAq3XcAffxnQvPN-TStXMFkIo/edit?usp=sharing&ouid=110133304186287068341&rtpof=true&sd=true).
 
 ### Subtask 4️⃣
 
@@ -122,7 +122,7 @@ Tour testing is a structred approach to exploratory testing, where an exploratio
 
 For my exploratory tests I chose the landmark tour.
 
-My bug reports are available [here](https://drive.google.com/file/d/1o8run24qj7QcuBDLYXlhRCsyqrMaFCVL/view?usp=sharing).
+My bug reports are available [here](https://docs.google.com/spreadsheets/d/1RBDN9H1LWeYQNemdbaKwqQrLEpDbDHse/edit?usp=sharing&ouid=110133304186287068341&rtpof=true&sd=true).
 
 ## Task 4️⃣
 
